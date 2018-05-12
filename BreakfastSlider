@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+ <html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <title>TITLE</title>
+     <meta name="description" content="DESCRIPTION">
+    <link rel="stylesheet" href="PATH">
+
+     <!--[if lt IE 9]>
+       <script src = "http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+     <![endif]-->
+ </head>
+
+ <body>
+
+   <div class="wrap">
+     <div id="arrow-left" class="arrow"></div>
+     <div id="slider">
+       <div class="slide slide1">
+         <div class="slide-content">
+           <span>Image One</span>
+         </div>
+       </div>
+       <div class="slide slide2">
+         <div class="slide-content">
+           <span>Image two</span>
+         </div>
+       </div>
+       <div class="slide slide3">
+         <div class="slide-content">
+           <span>Image three</span>
+         </div>
+       </div>
+     </div>
+     <div id="arrow-right" class="arrow"></div>
+
+ </body>
+
+ </html>
